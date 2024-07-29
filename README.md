@@ -6,7 +6,7 @@
 - 🔥 Interested in Java
 - 🌱 I’m currently learning java spring boot 
 - ⚡ Fun fact: I just love learning new things 
-- 💬 Ask me about anything [here]([https://github.com/anuraghazra/anuraghazra/issues](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues))
+- 💬 Ask me about anything [here]([https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues])
 - 
 ## I love working in
 
