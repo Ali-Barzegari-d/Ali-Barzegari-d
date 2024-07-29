@@ -5,9 +5,9 @@
 
 - 🔥 Interested in Java
 - 🌱 I’m currently learning java spring boot 
-- ⚡ Fun fact: I just love learning new things 
+- ⚡ Fun fact: I just love learning new things
+- 👨‍💻 See my resume [here]()
 - 💬 Ask me about anything [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues)
-- 
 ## I love working in
 
 **Languages:**
@@ -35,6 +35,7 @@
 <br>
 
 <div align="center" >
-    <img align="center" src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=26" alt="Navin Moorthy's Readme Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&theme=buefy&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=26" alt="Navin Moorthy's Readme Stats"/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&theme=buefy&hide_border=true" /> 
+
 </div>
