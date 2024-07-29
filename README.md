@@ -25,7 +25,7 @@
 <br>
 
 <div align="center" >
-    <img align="center" src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=26" alt="Navin Moorthy's Readme Stats"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&theme=buefy&hide_border=true" /> 
+    <img align="center" src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&theme=radical&line_height=26" alt="Navin Moorthy's Readme Stats"/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=donut&theme=radical" /> 
 
 </div>
