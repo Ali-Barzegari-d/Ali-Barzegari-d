@@ -31,6 +31,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <div >
-    <img src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=26" alt="Navin Moorthy's Readme Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&theme=buefy&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=26" alt="Navin Moorthy's Readme Stats"/>
+</div>
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&theme=buefy&hide_border=true" />
 </div>
