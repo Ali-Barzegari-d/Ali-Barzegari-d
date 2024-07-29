@@ -1,12 +1,13 @@
 <div align="center">
-  <img height="100" src="https://raw.githubusercontent.com/navin-moorthy/navinmoorthy.me/master/public/android-chrome-512x512.png">
+  <img height="120" src="https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/AB_logo.png">
   <h1>Ali Barzegari Dahaj</h1>
 </div>
 
 - 🔥 Interested in Java
 - 🌱 I’m currently learning java spring boot 
 - ⚡ Fun fact: I just love learning new things 
-
+- 💬 Ask me about anything [here]([https://github.com/anuraghazra/anuraghazra/issues](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues))
+- 
 ## I love working in
 
 **Languages:**
