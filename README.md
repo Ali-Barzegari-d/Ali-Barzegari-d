@@ -26,6 +26,6 @@
 
 <div align="center" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&theme=radical" alt="Ali Barzegari dahaj"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&theme=radical" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&langs_count=5&theme=radical" /> 
 
 </div>
