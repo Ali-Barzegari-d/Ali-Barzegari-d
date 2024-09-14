@@ -1,17 +1,19 @@
 <div align="center" >
   <img height="120" src="https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/AB_logo.png">
 </div>
-<div>
-  <h2>Ali Barzegari dahaj</h2>
- I am a computer engineering student with a deep interest in coding . Proficient in some programming languages and eager to solve technological and algorithmic challenges and seek prosperity in the world of computer science and programming. 
-  <br></br>
-</div>
 
+  ### Hi there 👋
+
+
+
+
+- Computer Engineering Student at SRBIAU
 - 🔥 Interested in C++ , Java , Go
-- 🌱 I’m currently learning java spring boot 
-- ⚡ Fun fact: I just love learning new things
+- 🌱 I’m currently learning Go and Robotic
+- 📫 How to reach me: t.me/ABarzegariD
 - 👨‍💻 See my resume [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/Ali-Barzegari-d-resume.pdf)
 - 💬 Ask me about anything [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues)
+- ⚡ Fun fact: I just love learning new things
 ## I love working in
 
 <div align="center">
