@@ -11,7 +11,7 @@
 - 🔥 Interested in C++ , Java , Go
 - 🌱 I’m currently learning Go and Robotic
 - 📫 How to reach me: t.me/ABarzegariD
-- 👨‍💻 See my resume [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/Ali-Barzegari-d-resume.pdf)
+- 👨‍💻 See my resume [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/Ali-Barzegari-d-Resume.pdf)
 - 💬 Ask me about anything [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues)
 - ⚡ Fun fact: I just love learning new things
 ## I love working in
