@@ -29,5 +29,5 @@
 <div align="center" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&theme=radical"/> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&langs_count=5&theme=radical" /> 
-
+    <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Barzegari-d&" alt="Ali-Barzegari-d" /></p> -->
 </div>
