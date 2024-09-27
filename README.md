@@ -1,5 +1,5 @@
 <div align="center" >
-  <img height="120" src="https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/logo_AB.png">
+  <img height="150" src="https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/logo_AB.png">
 </div>
 
   ### Hi there 👋
@@ -11,11 +11,11 @@
 - 📫 How to reach me: t.me/ABarzegariD
 - 👨‍💻 Check out my [resume](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/Ali-Barzegari-d-Resume.pdf)
 - 💬 Ask me about anything [here](https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/issues)
-- ⚡ Fun fact: I just love learning new things
+- ⚡ **Fun fact:** I just love learning new things
 
 ---
 
-## I love working in
+## 🛠️ Skills and Tools
 
 <div align="center">
   
