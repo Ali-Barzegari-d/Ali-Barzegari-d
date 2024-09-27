@@ -5,8 +5,7 @@
   <img align="Left" src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Barzegari-d" alt="Visitor Badge"/>
 </div>
 
-  ### Hi there 👋
-
+### Hi there 👋
 
 - **Computer Engineering Student**
 - 🔥 Interested in **C++** , **Java** , **Go**
@@ -30,8 +29,20 @@
 
 <br>
 
-<div align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&theme=radical"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&langs_count=5&theme=radical" /> 
-    <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Barzegari-d&" alt="Ali-Barzegari-d" /></p> -->
-</div>
+<!-- <div align="center" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Barzegari-d&langs_count=5&theme=radical" />
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Barzegari-d&" alt="Ali-Barzegari-d" /></p>
+
+    </div> -->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Ali-Barzegari-d">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ali-Barzegari-d&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ali-Barzegari-d&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+ <br />
+  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Barzegari-d&theme=algolia" alt="Ali-Barzegari-d" /></p>
