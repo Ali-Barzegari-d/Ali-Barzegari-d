@@ -1,9 +1,9 @@
 <div align="center" >
   <img height="150" src="https://github.com/Ali-Barzegari-d/Ali-Barzegari-d/blob/master/logo_AB.png">
 </div>
-<div>
+<!--<div>
   <img align="Left" src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Barzegari-d" alt="Visitor Badge"/>
-</div>
+</div> -->
 
 
 ### Hi there 👋
